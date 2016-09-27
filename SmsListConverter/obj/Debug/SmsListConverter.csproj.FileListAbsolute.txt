@@ -1,0 +1,8 @@
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\bin\Debug\SmsListConverter.exe
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\bin\Debug\SmsListConverter.pdb
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\ResolveAssemblyReference.cache
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.Form1.resources
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.Properties.Resources.resources
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.exe
+k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.pdb
