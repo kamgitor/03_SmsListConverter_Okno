@@ -9,3 +9,21 @@ k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Release\SmsListConv
 k:\Projekty\C# Apps\03 SmsListConverter Okno\SmsListConverter\bin\Release\SmsListConverter.exe.config
 k:\Projekty\C# Apps\03 SmsListConverter Okno\SmsListConverter\obj\Release\SmsListConverter.exe
 k:\Projekty\C# Apps\03 SmsListConverter Okno\SmsListConverter\obj\Release\SmsListConverter.pdb
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Release\SmsListConverter.exe.config
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\SmsListConverter.exe
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\SmsListConverter.pdb
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Release\SmsListConverter.exe
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Release\SmsListConverter.pdb
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\ResolveAssemblyReference.cache
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\SmsListConverter.Form1.resources
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\SmsListConverter.Properties.Resources.resources
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Release\SmsListConverter.csproj.GenerateResource.Cache
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Release\SmsListConverter.exe.config
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\SmsListConverter.exe
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\SmsListConverter.pdb
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Release\SmsListConverter.exe
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Release\SmsListConverter.pdb
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\ResolveAssemblyReference.cache
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\SmsListConverter.Form1.resources
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\SmsListConverter.Properties.Resources.resources
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Release\SmsListConverter.csproj.GenerateResource.Cache

@@ -6,3 +6,21 @@ k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConver
 k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
 k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.exe
 k:\Projekty\C# Apps\02 SmsListConverter\SmsListConverter\obj\Debug\SmsListConverter.pdb
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Debug\SmsListConverter.exe.config
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Debug\SmsListConverter.exe
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\bin\Debug\SmsListConverter.pdb
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\ResolveAssemblyReference.cache
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\SmsListConverter.Form1.resources
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\SmsListConverter.Properties.Resources.resources
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\SmsListConverter.exe
+k:\Proj2\!C# Apps\03_SmsListConverter_Okno V2\SmsListConverter\obj\Debug\SmsListConverter.pdb
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.exe.config
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.exe
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.pdb
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\ResolveAssemblyReference.cache
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.Form1.resources
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.Properties.Resources.resources
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.exe
+k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.pdb
