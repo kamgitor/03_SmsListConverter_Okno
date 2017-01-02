@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn_convert = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txt_filename = new System.Windows.Forms.TextBox();
@@ -38,19 +39,14 @@
             this.char_3 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.debug = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.groupBox1.SuspendLayout();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btn_convert
             // 
-            this.btn_convert.Location = new System.Drawing.Point(112, 119);
+            this.btn_convert.Location = new System.Drawing.Point(133, 119);
             this.btn_convert.Name = "btn_convert";
-            this.btn_convert.Size = new System.Drawing.Size(112, 23);
+            this.btn_convert.Size = new System.Drawing.Size(89, 23);
             this.btn_convert.TabIndex = 0;
             this.btn_convert.Text = "Convert";
             this.btn_convert.UseVisualStyleBackColor = true;
@@ -123,7 +119,7 @@
             // 
             // debug
             // 
-            this.debug.Location = new System.Drawing.Point(13, 119);
+            this.debug.Location = new System.Drawing.Point(18, 119);
             this.debug.Name = "debug";
             this.debug.Size = new System.Drawing.Size(65, 23);
             this.debug.TabIndex = 10;
@@ -132,61 +128,26 @@
             this.debug.Visible = false;
             this.debug.Click += new System.EventHandler(this.debug_Click);
             // 
-            // label7
+            // textBox1
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(4, 56);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(168, 13);
-            this.label7.TabIndex = 15;
-            this.label7.Text = "kodowania 65001 Unicode UTF-8";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(3, 41);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(174, 13);
-            this.label8.TabIndex = 14;
-            this.label8.Text = "Do Excela konwertujemy używając ";
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Controls.Add(this.label5);
-            this.groupBox1.Controls.Add(this.label8);
-            this.groupBox1.Controls.Add(this.label7);
-            this.groupBox1.Location = new System.Drawing.Point(13, 163);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(211, 99);
-            this.groupBox1.TabIndex = 16;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Info";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(5, 19);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(192, 13);
-            this.label5.TabIndex = 16;
-            this.label5.Text = "Z Androida konwertujemy: SMS to Text";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(3, 72);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(103, 13);
-            this.label6.TabIndex = 17;
-            this.label6.Text = "(na samym dole listy)";
+            this.textBox1.AcceptsTab = true;
+            this.textBox1.Location = new System.Drawing.Point(14, 154);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(210, 85);
+            this.textBox1.TabIndex = 17;
+            this.textBox1.Tag = "";
+            this.textBox1.Text = "Z Androida konwertujemy: SMS to Text\r\nDo Excela konwertujemy używając\r\nkodowania " +
+                "65001 Unicode UTF-8\r\n(na samym dole listy)\r\nFormat danych w kolumnie - text\r\nMes" +
+                "sage formatuj komórki - zawijaj";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(240, 274);
-            this.Controls.Add(this.groupBox1);
+            this.ClientSize = new System.Drawing.Size(236, 251);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.debug);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.char_3);
@@ -197,11 +158,11 @@
             this.Controls.Add(this.txt_filename);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_convert);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Tag = "Name of file ";
             this.Text = "Sms list converter";
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -219,11 +180,7 @@
         private System.Windows.Forms.TextBox char_3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button debug;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
