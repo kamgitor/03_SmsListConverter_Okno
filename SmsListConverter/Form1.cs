@@ -66,7 +66,7 @@ namespace SmsListConverter
         static bool TestSpecial(char znak)
         {
             byte i;
-            char[] tab = {   (char)0xD83C, (char)55357, (char)0xDE0A, (char)0xDE09,
+            char[] tab = {   (char)0xD83C, (char)0xD83E, (char)55357, (char)0xDE0A, (char)0xDE09,
                              (char)0xDE18, (char)0xDE42, (char)0xDE0D, (char)0xDE03,
                              (char)0xDE00, (char)0xDE13, (char)0xDE12, (char)0xDCA9,
                              (char)0xDC8F, (char)0xDC8B, (char)0xDC69, (char)0xDC36,

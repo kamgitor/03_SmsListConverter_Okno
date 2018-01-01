@@ -1,0 +1,2 @@
+
+Jak sie apka wywala. Nie moze rozpoznac kodu unicode, to trzeba go dopisac do funkcji: TestSpecial

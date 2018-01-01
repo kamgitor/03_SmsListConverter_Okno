@@ -24,3 +24,12 @@ k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConvert
 k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
 k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.exe
 k:\ProjektyC#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.pdb
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.exe.config
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.exe
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.pdb
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.exe
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\bin\Debug\SmsListConverter.pdb
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csprojResolveAssemblyReference.cache
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.Form1.resources
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.Properties.Resources.resources
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
