@@ -42,18 +42,19 @@
 			this.label7 = new System.Windows.Forms.Label();
 			this.label8 = new System.Windows.Forms.Label();
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
+			this.label12 = new System.Windows.Forms.Label();
+			this.label9 = new System.Windows.Forms.Label();
 			this.label10 = new System.Windows.Forms.Label();
 			this.label11 = new System.Windows.Forms.Label();
 			this.label6 = new System.Windows.Forms.Label();
 			this.label5 = new System.Windows.Forms.Label();
-			this.label9 = new System.Windows.Forms.Label();
-			this.label12 = new System.Windows.Forms.Label();
+			this.label13 = new System.Windows.Forms.Label();
 			this.groupBox1.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// btn_convert
 			// 
-			this.btn_convert.Location = new System.Drawing.Point(112, 119);
+			this.btn_convert.Location = new System.Drawing.Point(174, 93);
 			this.btn_convert.Name = "btn_convert";
 			this.btn_convert.Size = new System.Drawing.Size(112, 23);
 			this.btn_convert.TabIndex = 0;
@@ -128,7 +129,7 @@
 			// 
 			// debug
 			// 
-			this.debug.Location = new System.Drawing.Point(13, 119);
+			this.debug.Location = new System.Drawing.Point(174, 65);
 			this.debug.Name = "debug";
 			this.debug.Size = new System.Drawing.Size(65, 23);
 			this.debug.TabIndex = 10;
@@ -157,6 +158,7 @@
 			// 
 			// groupBox1
 			// 
+			this.groupBox1.Controls.Add(this.label13);
 			this.groupBox1.Controls.Add(this.label12);
 			this.groupBox1.Controls.Add(this.label9);
 			this.groupBox1.Controls.Add(this.label10);
@@ -165,12 +167,30 @@
 			this.groupBox1.Controls.Add(this.label5);
 			this.groupBox1.Controls.Add(this.label8);
 			this.groupBox1.Controls.Add(this.label7);
-			this.groupBox1.Location = new System.Drawing.Point(13, 154);
+			this.groupBox1.Location = new System.Drawing.Point(13, 122);
 			this.groupBox1.Name = "groupBox1";
-			this.groupBox1.Size = new System.Drawing.Size(235, 161);
+			this.groupBox1.Size = new System.Drawing.Size(235, 193);
 			this.groupBox1.TabIndex = 16;
 			this.groupBox1.TabStop = false;
 			this.groupBox1.Text = "Info";
+			// 
+			// label12
+			// 
+			this.label12.AutoSize = true;
+			this.label12.Location = new System.Drawing.Point(6, 125);
+			this.label12.Name = "label12";
+			this.label12.Size = new System.Drawing.Size(36, 13);
+			this.label12.TabIndex = 21;
+			this.label12.Text = "Excel:";
+			// 
+			// label9
+			// 
+			this.label9.AutoSize = true;
+			this.label9.Location = new System.Drawing.Point(6, 138);
+			this.label9.Name = "label9";
+			this.label9.Size = new System.Drawing.Size(168, 13);
+			this.label9.TabIndex = 17;
+			this.label9.Text = "kodowania 65001 Unicode UTF-8";
 			// 
 			// label10
 			// 
@@ -208,23 +228,14 @@
 			this.label5.TabIndex = 16;
 			this.label5.Text = "Z Androida konwertujemy: SMS to Text";
 			// 
-			// label9
+			// label13
 			// 
-			this.label9.AutoSize = true;
-			this.label9.Location = new System.Drawing.Point(6, 138);
-			this.label9.Name = "label9";
-			this.label9.Size = new System.Drawing.Size(168, 13);
-			this.label9.TabIndex = 17;
-			this.label9.Text = "kodowania 65001 Unicode UTF-8";
-			// 
-			// label12
-			// 
-			this.label12.AutoSize = true;
-			this.label12.Location = new System.Drawing.Point(6, 125);
-			this.label12.Name = "label12";
-			this.label12.Size = new System.Drawing.Size(36, 13);
-			this.label12.TabIndex = 21;
-			this.label12.Text = "Excel:";
+			this.label13.AutoSize = true;
+			this.label13.Location = new System.Drawing.Point(6, 167);
+			this.label13.Name = "label13";
+			this.label13.Size = new System.Drawing.Size(147, 13);
+			this.label13.TabIndex = 18;
+			this.label13.Text = "Formatuj komórki: text, zawijaj";
 			// 
 			// Form1
 			// 
@@ -276,6 +287,7 @@
 		private System.Windows.Forms.Label label11;
 		private System.Windows.Forms.Label label9;
 		private System.Windows.Forms.Label label12;
+		private System.Windows.Forms.Label label13;
 	}
 }
 
