@@ -32,3 +32,4 @@ d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsLis
 d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csproj.GenerateResource.Cache
 d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.exe
 d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.pdb
+d:\Robocze\!Visual C#\03_SmsListConverter_Okno\SmsListConverter\obj\Debug\SmsListConverter.csprojResolveAssemblyReference.cache
